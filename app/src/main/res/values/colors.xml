@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ffc0cb</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="backGroundColor">#00FFFF</color>
+    <color name="Pemain1">	#FFD700	</color>
+    <color name="Pemain2">#964B00</color>
+    <color name="ColoCell">#B7EDDE</color>
+    <color name="White">#ff1493</color>
+    <color name="white">#ffff</color>
+    <color name="winner">#720e2b</color>
+    <color name="biru">#000080</color>
+    <color name="blue"  >#FF33B5E5</color>
+    <color name="green" >#FF99CC00 </color>
+    <color name="darkgreen"  >#FF669900</color>
+    <color name="whitebackground"  >#d4d3d3</color>
+</resources>

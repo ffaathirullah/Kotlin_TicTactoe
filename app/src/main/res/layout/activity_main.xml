@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:gravity="center"
+    android:background="@drawable/background">
+
+    <Button
+        android:id="@+id/btn_move_to_online"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:height="60dp"
+        android:background="@drawable/custom_button"
+        android:text="Play With Player Online"
+        android:textColor="#ffff"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/btn_move"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:height="60dp"
+        android:background="@drawable/custom_button"
+        android:text="Play With Player Local"
+        android:textColor="#ffff"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/btn_move_to_comp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:layout_marginTop="32dp"
+        android:height="60dp"
+        android:background="@drawable/custom_button"
+        android:foregroundGravity="center"
+        android:text="Play With Computer"
+        android:textColor="#ffff"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/btn_to_group"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:layout_marginTop="32dp"
+        android:height="60dp"
+        android:background="@drawable/custom_button"
+        android:foregroundGravity="center"
+        android:text="Global Chat"
+        android:textColor="#ffff"
+        android:textSize="20sp" />
+
+
+    <Button
+        android:id="@+id/btn_logout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:layout_marginTop="32dp"
+        android:layout_marginBottom="16dp"
+        android:height="60dp"
+        android:background="@drawable/custom_button"
+        android:foregroundGravity="center"
+        android:text="Logout"
+        android:textColor="#ffff"
+        android:textSize="20sp" />
+
+</LinearLayout>
